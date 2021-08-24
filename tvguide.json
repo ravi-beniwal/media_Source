@@ -1,6 +1,7 @@
 [{
 	"Category":"Free Channels",
 	"Type":"Free Channels",
+	"Name":"LiveTV",
 	"Source":"https://raw.githubusercontent.com/ravi-beniwal/media_Source/main/mx_channels.json",
 	"EPG":""
 }]
